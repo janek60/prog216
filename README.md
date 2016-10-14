@@ -1,3 +1,3 @@
 # prog216
 
-Programmeerimiskursuse harjutuskoht
+Programmeerimiskursuse harjutuskoht :)
